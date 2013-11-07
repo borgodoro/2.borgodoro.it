@@ -1,0 +1,13 @@
+<%= render 'header' %>
+<ul class="breadcrumb">
+    <li><a href="/">
+        <img style="height: 25px;" src="/static/img/borgodoro2-250.png">
+        </a>
+        <span class="divider">/</span>
+    </li>
+    <li class="active"><%= @item[:title] %></li>
+</ul>
+<div class="container" id="container">
+    <%= yield %>
+</div>
+<%= render 'footer' %>

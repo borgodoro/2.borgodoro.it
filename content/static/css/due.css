@@ -1,0 +1,66 @@
+.bred {
+    color: white;
+    background: #aa0000;
+}
+
+.bgreen {
+    color: white;
+    background: #5aa02c;
+}
+
+.bpurple {
+    color: white;
+    background: #aa87de;
+}
+
+.borange {
+    color: white;
+    background: #ff6600;
+}
+
+h1, h2 {
+    color:#ff6600;
+}
+
+h3:nth-child(2n) {
+    color:#5aa02c;
+}
+
+h3:nth-child(4n) {
+    color:#aa0000;
+}
+
+blockquote:nth-child(2n+1) {
+    border-left-color: #5aa02c;
+}
+
+blockquote:nth-child(4n+1) {
+    border-left-color: #aa0000;
+}
+
+#wrap {
+    height: auto !important;
+    margin: 0 auto -20px;
+    min-height: 100%;
+}
+
+#container {
+    margin-bottom: 20px;
+}
+
+footer {
+    width:100%;
+}
+
+footer a, a:hover {
+    color: white;
+}
+
+footer div {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+html, body {
+    height:100%;
+}
