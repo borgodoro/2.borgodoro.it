@@ -23,32 +23,45 @@ Recipe
 > as you can do for many projects.
 {:.alert}
 
-> The recipe is still being finalized so doses and instructions are still
-> not properly written.
-{:.alert .alert-danger}
+> The recipe is the one currently used in production, check
+> our [repo](http://github.com/borgodoro/choco) for further changes.
+{:.alert .alert-success}
 
 ### Ingredients
 
-- cocoa mass, Ecuador.
+#### Raw
 
-- cocoa butter.
+- [Cocoa mass](http://en.wikipedia.org/wiki/Chocolate_liquor), Ecuador.
+- [Cocoa butter](http://en.wikipedia.org/wiki/Cocoa_butter), Ecuador.
+- Unrefined [sugar cane](http://en.wikipedia.org/wiki/Sugarcane), Guadalupe.
+- Guaranà ([Paullinia cupana](http://en.wikipedia.org/wiki/Guarana)) powder, Brazil.
+- Liquorice ([Glycyrrhiza glabra](http://en.wikipedia.org/wiki/Glycyrrhiza_glabra)) powder, Italy.
 
-- unrefined sugar cane, Guadalupe.
+#### Ready to use
 
-- guaranà (Paullinia cupana) extracts.
-
-- liquorice (Glycyrrhiza glabra) extracts.
+- [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75): 97.05%
+- [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder): 2.1%
+- [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder): 0.4%
 
 ### Instructions
 
-Coming Soon
+> Guarana has a bitter-spicy flavour that is countered by liquorice.
+
+Blend every ingredient together to make guarana and liquorice subtly enhance
+the chocolate flavour without being noticed too much.
+The liquorice aftertaste remain strong after the last bite.
+
+- Melt the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **48.5C** never go under **42C**
+- Temper the [75% Chocolate Base](http://shop.borgodoro.it/products/chocolate-base-75) at **29.2C**
+- Warm it again at **30.8C** and mix the [Guarana Powder](http://shop.borgodoro.it/products/guarana-powder) and the [Liquorice Powder](http://shop.borgodoro.it/products/liquorice-powder).
+- Dry and warm the molds at **30.8C**.
+- Press the chocolate in the molds.
+- Cool it down gradually from **14C** to **7C** in 25min.
 
 ## Buy
 
-- You can buy boxes of VLC chocolate worldwide, currently we do accept only
-  wire transfers so non EU people should order at least 3 boxes.
+You can buy boxes of VLC Chocolate in our [webshop](http://shop.borgodoro.it).
 
-- Separated ingredients are also available for sale.
+Members of the VideoLan community have a special discount code (ask around).
 
-Drop us an [email](mailto:sales@leonardofood.com) for further questions or to
-place an order.
+Separated ingredients are also available.
