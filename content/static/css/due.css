@@ -52,7 +52,7 @@ footer {
     width:100%;
 }
 
-footer a, a:hover {
+footer a, footer a:hover {
     color: white;
 }
 
@@ -63,4 +63,9 @@ footer div {
 
 html, body {
     height:100%;
+}
+
+.pull-right img {
+    padding-left: 10px;
+    padding-right: 10px;
 }

@@ -2,6 +2,9 @@
 title: VLC
 ---
 
+![VLC Chocolate](/static/img/banner-vlc-chocolate-o.png)
+{: .pull-right}
+
 VLC Chocolate
 =============
 
